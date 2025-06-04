@@ -64,8 +64,42 @@ The goal is to:
 
 Follow these steps to get the application up and running on your local machine.
 
+
 ### 1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/your-username/pregnocare-ai.git
 cd pregnocare-ai
+
+
+###2️⃣ Create a Virtual Environment
+
+  python -m venv venv
+
+  
+###3️⃣ Activate the Environment
+   
+  On Windows:
+  
+    venv\Scripts\activate
+  On Mac/Linux:
+  
+    source venv/bin/activate
+###4️⃣ Install Dependencies
+
+  pip install -r requirements.txt
+
+
+###5️⃣ Set Environment Variables
+
+
+Create a .env file in the root folder and add:
+
+  OPENAI_API_KEY=your_openai_api_key
+  MONGODB_URI=your_mongodb_connection_string
+
+
+###▶️ Run the App
+
+  streamlit run app.py
+  Then open the local URL shown in your terminal (usually http://localhost:8501).
+
