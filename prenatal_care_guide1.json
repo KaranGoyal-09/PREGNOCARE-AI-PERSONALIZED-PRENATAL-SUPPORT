@@ -1,0 +1,259 @@
+{
+    "prenatal_care_guide": {
+      "trimesters": [
+        {
+          "trimester": 1,
+          "weeks": "1-12",
+          "symptoms": [
+            {
+              "name": "Nausea and vomiting",
+              "risk": "low",
+              "description": "Common due to hormonal changes (hCG, estrogen). Often called morning sickness, though it can occur anytime.",
+              "advice": "Eat small, frequent meals. Avoid spicy or fatty foods. Try ginger tea or crackers. Consult a doctor if vomiting is severe (possible hyperemesis gravidarum).",
+              "source": "ACOG, Morning Sickness: Nausea and Vomiting of Pregnancy, 2023"
+            },
+            {
+              "name": "Fatigue",
+              "risk": "low",
+              "description": "Caused by increased progesterone and metabolic demands.",
+              "advice": "Rest when possible. Maintain a balanced diet rich in iron and protein. Stay hydrated.",
+              "source": "WHO, Antenatal Care Recommendations, 2016"
+            },
+            {
+              "name": "Spotting",
+              "risk": "moderate",
+              "description": "Light bleeding may occur due to implantation or cervical sensitivity.",
+              "advice": "Monitor the amount and duration. Contact a healthcare provider if spotting is heavy or accompanied by pain.",
+              "source": "Mayo Clinic, Bleeding During Pregnancy, 2024"
+            },
+            {
+              "name": "Severe abdominal pain",
+              "risk": "high",
+              "description": "May indicate ectopic pregnancy or miscarriage.",
+              "advice": "Seek immediate medical attention.",
+              "source": "ACOG, Early Pregnancy Loss, 2022"
+            }
+          ],
+          "nutrition": {
+            "key_nutrients": [
+              {
+                "nutrient": "Folic acid",
+                "daily_amount": "600 mcg",
+                "purpose": "Prevents neural tube defects.",
+                "foods": ["Leafy greens (spinach, kale)", "Fortified cereals", "Lentils", "Oranges"],
+                "supplement": "400 mcg daily prenatal vitamin"
+              },
+              {
+                "nutrient": "Iron",
+                "daily_amount": "27 mg",
+                "purpose": "Supports increased blood volume and prevents anemia.",
+                "foods": ["Lean red meat", "Spinach", "Tofu", "Pumpkin seeds"],
+                "supplement": "Consider 30 mg if deficient"
+              },
+              {
+                "nutrient": "Calcium",
+                "daily_amount": "1000 mg",
+                "purpose": "Supports fetal bone development.",
+                "foods": ["Milk", "Yogurt", "Cheese", "Kale"],
+                "supplement": "Not typically needed if diet is adequate"
+              }
+            ],
+            "restrictions": {
+              "allergens": ["Peanuts (if allergic)", "Shellfish (if allergic)"],
+              "avoid": ["Raw fish (sushi)", "Unpasteurized dairy", "High-mercury fish (tuna, swordfish)", "Raw eggs"]
+            },
+            "source": "CDC, Pregnancy Nutrition, 2024; ACOG, Nutrition During Pregnancy, 2023"
+          },
+          "exercise": {
+            "recommendations": "30 minutes of moderate exercise (e.g., walking, prenatal yoga) most days.",
+            "benefits": "Improves mood, reduces fatigue, prepares for labor.",
+            "avoid": "High-impact sports, activities with fall risk (e.g., skiing).",
+            "source": "ACOG, Exercise During Pregnancy, 2022"
+          },
+          "mental_health": {
+            "recommendations": "Practice deep breathing or meditation. Join a prenatal support group if feeling anxious.",
+            "warning_signs": ["Persistent sadness", "Loss of interest in activities"],
+            "advice": "Discuss with a healthcare provider if symptoms last >2 weeks.",
+            "source": "NIH, Mental Health During Pregnancy, 2024"
+          }
+        },
+        {
+          "trimester": 2,
+          "weeks": "13-27",
+          "symptoms": [
+            {
+              "name": "Back pain",
+              "risk": "low",
+              "description": "Caused by weight gain and shifting center of gravity.",
+              "advice": "Maintain good posture. Use a supportive chair. Try prenatal yoga or gentle stretching.",
+              "source": "Mayo Clinic, Back Pain During Pregnancy, 2024"
+            },
+            {
+              "name": "Heartburn",
+              "risk": "low",
+              "description": "Due to hormonal changes and growing uterus pressing on stomach.",
+              "advice": "Eat small, frequent meals. Avoid spicy or acidic foods. Sleep with head elevated.",
+              "source": "ACOG, Gastrointestinal Issues in Pregnancy, 2023"
+            },
+            {
+              "name": "Swelling (edema)",
+              "risk": "moderate",
+              "description": "Fluid retention in legs or ankles due to increased blood volume.",
+              "advice": "Elevate feet when sitting. Avoid tight clothing. Contact a doctor if swelling is sudden or severe (possible preeclampsia).",
+              "source": "WHO, Antenatal Care, 2016"
+            },
+            {
+              "name": "Severe headache",
+              "risk": "high",
+              "description": "May indicate preeclampsia, especially with vision changes or upper abdominal pain.",
+              "advice": "Seek immediate medical attention.",
+              "source": "ACOG, Preeclampsia and High Blood Pressure, 2022"
+            }
+          ],
+          "nutrition": {
+            "key_nutrients": [
+              {
+                "nutrient": "DHA (Omega-3)",
+                "daily_amount": "200-300 mg",
+                "purpose": "Supports fetal brain and eye development.",
+                "foods": ["Salmon (cooked)", "Walnuts", "Chia seeds"],
+                "supplement": "Prenatal vitamin with DHA"
+              },
+              {
+                "nutrient": "Protein",
+                "daily_amount": "71 g",
+                "purpose": "Supports fetal tissue growth and maternal health.",
+                "foods": ["Chicken", "Eggs (cooked)", "Greek yogurt", "Lentils"],
+                "supplement": "Not typically needed"
+              }
+            ],
+            "restrictions": {
+              "allergens": ["Peanuts (if allergic)", "Shellfish (if allergic)"],
+              "avoid": ["Deli meats (unless heated to 165°F)", "Caffeine (>200 mg/day)", "Alcohol"]
+            },
+            "source": "CDC, Pregnancy Nutrition, 2024; ACOG, Nutrition During Pregnancy, 2023"
+          },
+          "exercise": {
+            "recommendations": "Continue moderate exercise (e.g., swimming, walking). Aim for 150 minutes per week.",
+            "benefits": "Reduces back pain, improves sleep, boosts energy.",
+            "avoid": "Lying flat on back after 20 weeks (may compress blood vessels).",
+            "source": "ACOG, Exercise During Pregnancy, 2022"
+          },
+          "mental_health": {
+            "recommendations": "Engage in relaxation techniques. Discuss body image concerns with a counselor if needed.",
+            "warning_signs": ["Anxiety", "Mood swings persisting >2 weeks"],
+            "advice": "Seek professional help for mental health concerns.",
+            "source": "NIH, Mental Health During Pregnancy, 2024"
+          }
+        },
+        {
+          "trimester": 3,
+          "weeks": "28-40",
+          "symptoms": [
+            {
+              "name": "Braxton Hicks contractions",
+              "risk": "low",
+              "description": "Irregular, painless contractions preparing for labor.",
+              "advice": "Rest and hydrate. Differentiate from true labor (regular, intensifying contractions).",
+              "source": "ACOG, Labor and Delivery, 2023"
+            },
+            {
+              "name": "Shortness of breath",
+              "risk": "low",
+              "description": "Caused by the growing uterus pressing on the diaphragm.",
+              "advice": "Sit upright, avoid heavy exertion. Contact a doctor if severe or sudden.",
+              "source": "Mayo Clinic, Pregnancy Discomforts, 2024"
+            },
+            {
+              "name": "Heavy vaginal bleeding",
+              "risk": "high",
+              "description": "May indicate placental abruption or preterm labor.",
+              "advice": "Seek immediate medical attention.",
+              "source": "ACOG, Bleeding During Pregnancy, 2022"
+            },
+            {
+              "name": "Decreased fetal movement",
+              "risk": "high",
+              "description": "May indicate fetal distress.",
+              "advice": "Perform a kick count (10 movements in 2 hours). Contact a healthcare provider immediately if reduced.",
+              "source": "WHO, Antenatal Care, 2016"
+            }
+          ],
+          "nutrition": {
+            "key_nutrients": [
+              {
+                "nutrient": "Vitamin D",
+                "daily_amount": "600 IU",
+                "purpose": "Supports fetal bone health and maternal immunity.",
+                "foods": ["Fortified milk", "Salmon", "Egg yolks"],
+                "supplement": "Prenatal vitamin"
+              },
+              {
+                "nutrient": "Fiber",
+                "daily_amount": "25-30 g",
+                "purpose": "Prevents constipation, common in late pregnancy.",
+                "foods": ["Whole grains", "Apples", "Broccoli", "Beans"],
+                "supplement": "Not typically needed"
+              }
+            ],
+            "restrictions": {
+              "allergens": ["Peanuts (if allergic)", "Shellfish (if allergic)"],
+              "avoid": ["Unwashed produce", "Excessive sodium (may worsen swelling)", "Raw sprouts"]
+            },
+            "source": "CDC, Pregnancy Nutrition, 2024; ACOG, Nutrition During Pregnancy, 2023"
+          },
+          "exercise": {
+            "recommendations": "Light exercise (e.g., walking, pelvic floor exercises) to maintain mobility.",
+            "benefits": "Prepares for labor, reduces swelling, improves circulation.",
+            "avoid": "Strenuous activities, exercises causing discomfort.",
+            "source": "ACOG, Exercise During Pregnancy, 2022"
+          },
+          "mental_health": {
+            "recommendations": "Prepare for childbirth with classes or counseling. Discuss postpartum expectations.",
+            "warning_signs": ["Fear of labor", "Signs of depression"],
+            "advice": "Seek support from a mental health professional or hotline (e.g., 1-833-943-5746).",
+            "source": "NIH, Mental Health During Pregnancy, 2024"
+          }
+        }
+      ],
+      "general_guidelines": {
+        "avoid_substances": [
+          {
+            "substance": "Alcohol",
+            "risk": "Fetal alcohol spectrum disorders",
+            "advice": "No safe amount during pregnancy.",
+            "source": "CDC, Alcohol and Pregnancy, 2024"
+          },
+          {
+            "substance": "Tobacco",
+            "risk": "Preterm birth, low birth weight, SIDS",
+            "advice": "Quit smoking. Seek cessation programs.",
+            "source": "ACOG, Tobacco and Pregnancy, 2022"
+          },
+          {
+            "substance": "Illicit drugs",
+            "risk": "Birth defects, neonatal withdrawal",
+            "advice": "Avoid all recreational drugs. Seek addiction support.",
+            "source": "NIH, Substance Use in Pregnancy, 2024"
+          }
+        ],
+        "medications": {
+          "advice": "Consult a healthcare provider before taking any medication, including over-the-counter drugs and supplements. Avoid NSAIDs (e.g., ibuprofen) unless prescribed.",
+          "source": "ACOG, Medications During Pregnancy, 2023"
+        },
+        "emergency_contacts": [
+          {
+            "name": "National Maternal Mental Health Hotline",
+            "number": "1-833-943-5746",
+            "purpose": "24/7 mental health support"
+          },
+          {
+            "name": "Postpartum Support International",
+            "number": "1-800-944-4773",
+            "purpose": "Postpartum depression and anxiety support"
+          }
+        ],
+        "source": "ACOG, WHO, CDC, 2020–2024"
+      }
+    }
+  }

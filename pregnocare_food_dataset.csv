@@ -1,0 +1,439 @@
+food_name,nutrients,safe_in_pregnancy,recommended_trimester,serving_suggestions,category,diet_type
+Dhokla,"Protein, Folate",Yes,All,Steam and serve with chutney,Snack,Vegetarian
+Ragi porridge (16),"Iron, Calcium, Zinc",Yes,Third,Cook with milk or water and jaggery,Grain,Vegetarian
+Bajra roti (2),"Iron, Fiber",Yes,Third,Pair with ghee and dal,Grain,Vegetarian
+Suji halwa (15),"Iron, Energy, Zinc",Yes,Third,Use less sugar and ghee,Dessert,Vegetarian
+Ragi porridge (3),"Iron, Calcium",Yes,Third,Cook with milk or water and jaggery,Grain,Vegetarian
+Turmeric milk (12),"Immunity, Antioxidants, Zinc",Yes,All,Use small quantity of turmeric,Drink,Vegetarian
+Murungai keerai (Drumstick leaves) (9),"Iron, Calcium, Vitamin A",Yes,All,Use in dal or poriyal,Leafy Green,Vegetarian
+Murungai keerai (Drumstick leaves) (1),"Iron, Calcium, Vitamin A",Yes,Second,Use in dal or poriyal,Leafy Green,Vegetarian
+Bottle gourd (15),"Hydration, Fiber",Yes,All,Boil or make into curry,Vegetable,Vegetarian
+Idli with sambar,"Protein, Iron",Yes,All,Steam and serve with lentil soup,Meal,Vegetarian
+Palak paneer (11),"Calcium, Iron, Protein",Yes,Second,Cook with less spice,Meal,Vegetarian
+Sunflower seeds (6),"Vitamin E, Zinc",Yes,First,Sprinkle on salads or yogurt,Seed,Vegetarian
+Multigrain bread (16),"Fiber, B-Vitamins, Zinc",Yes,Third,Use for sandwiches,Grain,Vegetarian
+Suji halwa (8),"Iron, Energy",Yes,Second,Use less sugar and ghee,Dessert,Vegetarian
+Coconut chutney (2),Healthy Fats,Yes,Second,Pair with dosa or idli,Condiment,Vegetarian
+Dates (10),"Iron, Energy",Yes,All,Eat as snacks or with milk,Fruit,Vegetarian
+Boiled fish curry (light) (2),"Protein, Omega-3",Yes,First,Use minimal oil and spices,Fish,Non-Vegetarian
+Coconut chutney (8),Healthy Fats,Yes,All,Pair with dosa or idli,Condiment,Vegetarian
+Boiled fish curry (light) (10),"Protein, Omega-3, Zinc",Yes,First,Use minimal oil and spices,Fish,Non-Vegetarian
+Bottle gourd (1),"Hydration, Fiber, Zinc",Yes,Second,Boil or make into curry,Vegetable,Vegetarian
+Mushrooms (12),"Vitamin D, Iron",Yes,Third,Cook well before eating,Vegetable,Vegetarian
+Multigrain bread (7),"Fiber, B-Vitamins",Yes,All,Use for sandwiches,Grain,Vegetarian
+Turmeric milk (3),"Immunity, Antioxidants",Yes,Second,Use small quantity of turmeric,Drink,Vegetarian
+Dates (13),"Iron, Energy",Yes,Third,Eat as snacks or with milk,Fruit,Vegetarian
+Mushrooms (15),"Vitamin D, Iron",Yes,Third,Cook well before eating,Vegetable,Vegetarian
+Soy milk (11),"Calcium, Protein",Yes,All,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Sprouted moong salad (6),"Iron, Vitamin C",Yes,Third,Add lemon and tomatoes,Salad,Vegetarian
+Zucchini,"Vitamin C, Fiber",Yes,All,Steam or grill lightly,Vegetable,Vegetarian
+Mushrooms (11),"Vitamin D, Iron",Yes,Third,Cook well before eating,Vegetable,Vegetarian
+Multigrain bread (17),"Fiber, B-Vitamins",Yes,First,Use for sandwiches,Grain,Vegetarian
+Suji halwa (9),"Iron, Energy",Yes,Second,Use less sugar and ghee,Dessert,Vegetarian
+Spinach,Iron,Yes,All,Steam and add to dals or smoothies,Vegetable,"Iron-Deficiency, Vegetarian"
+Idli with sambar (15),"Protein, Iron",Yes,First,Steam and serve with lentil soup,Meal,Vegetarian
+Soy milk (6),"Calcium, Protein",Yes,Second,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Mushrooms (5),"Vitamin D, Iron, Zinc",Yes,First,Cook well before eating,Vegetable,Vegetarian
+Ragi porridge (17),"Iron, Calcium",Yes,First,Cook with milk or water and jaggery,Grain,Vegetarian
+Soy milk (14),"Calcium, Protein, Zinc",Yes,First,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Beetroot (16),"Folate, Iron, Zinc",Yes,Second,Boil or juice,Vegetable,Vegetarian
+Turmeric milk (13),"Immunity, Antioxidants, Zinc",Yes,Third,Use small quantity of turmeric,Drink,Vegetarian
+Lassi,"Calcium, Probiotics",Yes,All,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Bottle gourd (12),"Hydration, Fiber",Yes,All,Boil or make into curry,Vegetable,Vegetarian
+Besan chilla (7),"Protein, Iron",Yes,All,Pan-fry with veggies,Meal,Vegetarian
+Zucchini (15),"Vitamin C, Fiber, Zinc",Yes,Second,Steam or grill lightly,Vegetable,Vegetarian
+Palak paneer (10),"Calcium, Iron, Protein",Yes,Second,Cook with less spice,Meal,Vegetarian
+Ragi porridge (5),"Iron, Calcium",Yes,Second,Cook with milk or water and jaggery,Grain,Vegetarian
+Besan chilla (11),"Protein, Iron",Yes,All,Pan-fry with veggies,Meal,Vegetarian
+Beetroot (14),"Folate, Iron",Yes,Third,Boil or juice,Vegetable,Vegetarian
+Aloo methi (16),"Iron, Fiber",Yes,Second,Cook with minimal oil,Vegetable,Vegetarian
+Palak paneer (4),"Calcium, Iron, Protein",Yes,First,Cook with less spice,Meal,Vegetarian
+Dates (6),"Iron, Energy, Zinc",Yes,Second,Eat as snacks or with milk,Fruit,Vegetarian
+Bajra roti (17),"Iron, Fiber",Yes,All,Pair with ghee and dal,Grain,Vegetarian
+Mushrooms (16),"Vitamin D, Iron",Yes,First,Cook well before eating,Vegetable,Vegetarian
+Beetroot (11),"Folate, Iron",Yes,First,Boil or juice,Vegetable,Vegetarian
+Tofu,"Iron, Protein",Yes,All,Stir-fry with vegetables,Protein,"Iron-Deficiency, Vegetarian"
+Bottle gourd (13),"Hydration, Fiber",Yes,First,Boil or make into curry,Vegetable,Vegetarian
+Besan chilla (13),"Protein, Iron",Yes,Third,Pan-fry with veggies,Meal,Vegetarian
+Beetroot (4),"Folate, Iron",Yes,First,Boil or juice,Vegetable,Vegetarian
+Coconut chutney (14),"Healthy Fats, Zinc",Yes,Second,Pair with dosa or idli,Condiment,Vegetarian
+Aloo methi (13),"Iron, Fiber",Yes,Second,Cook with minimal oil,Vegetable,Vegetarian
+Dates (15),"Iron, Energy, Zinc",Yes,All,Eat as snacks or with milk,Fruit,Vegetarian
+Mushrooms (17),"Vitamin D, Iron",Yes,All,Cook well before eating,Vegetable,Vegetarian
+Murungai keerai (Drumstick leaves) (4),"Iron, Calcium, Vitamin A, Zinc",Yes,Third,Use in dal or poriyal,Leafy Green,Vegetarian
+Dates (9),"Iron, Energy",Yes,Third,Eat as snacks or with milk,Fruit,Vegetarian
+Dates (16),"Iron, Energy, Zinc",Yes,All,Eat as snacks or with milk,Fruit,Vegetarian
+Boiled fish curry (light),"Protein, Omega-3",Yes,"Second, Third",Use minimal oil and spices,Fish,Non-Vegetarian
+Ragi porridge (13),"Iron, Calcium",Yes,All,Cook with milk or water and jaggery,Grain,Vegetarian
+Murungai keerai (Drumstick leaves) (14),"Iron, Calcium, Vitamin A",Yes,Third,Use in dal or poriyal,Leafy Green,Vegetarian
+Murungai keerai (Drumstick leaves) (17),"Iron, Calcium, Vitamin A",Yes,Second,Use in dal or poriyal,Leafy Green,Vegetarian
+Zucchini (2),"Vitamin C, Fiber, Zinc",Yes,First,Steam or grill lightly,Vegetable,Vegetarian
+Broccoli,"Folate, Fiber",Yes,All,Steam or stir-fry,Vegetable,Vegetarian
+Dates,"Iron, Energy",Yes,"Second, Third",Eat as snacks or with milk,Fruit,Vegetarian
+Ragi porridge (4),"Iron, Calcium, Zinc",Yes,First,Cook with milk or water and jaggery,Grain,Vegetarian
+Multigrain bread (15),"Fiber, B-Vitamins",Yes,All,Use for sandwiches,Grain,Vegetarian
+Multigrain bread (10),"Fiber, B-Vitamins",Yes,Third,Use for sandwiches,Grain,Vegetarian
+Boiled fish curry (light) (11),"Protein, Omega-3",Yes,First,Use minimal oil and spices,Fish,Non-Vegetarian
+Soy milk (12),"Calcium, Protein, Zinc",Yes,All,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Beetroot (13),"Folate, Iron",Yes,All,Boil or juice,Vegetable,Vegetarian
+Lassi (15),"Calcium, Probiotics",Yes,All,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Murungai keerai (Drumstick leaves) (5),"Iron, Calcium, Vitamin A",Yes,Third,Use in dal or poriyal,Leafy Green,Vegetarian
+Sunflower seeds (11),"Vitamin E, Zinc",Yes,All,Sprinkle on salads or yogurt,Seed,Vegetarian
+Mushrooms (7),"Vitamin D, Iron",Yes,All,Cook well before eating,Vegetable,Vegetarian
+Zucchini (6),"Vitamin C, Fiber",Yes,All,Steam or grill lightly,Vegetable,Vegetarian
+Bajra roti (5),"Iron, Fiber",Yes,All,Pair with ghee and dal,Grain,Vegetarian
+Dates (4),"Iron, Energy, Zinc",Yes,First,Eat as snacks or with milk,Fruit,Vegetarian
+Toor dal,"Protein, Iron",Yes,All,Cook as sambar or dal,Pulse,Vegetarian
+Dates (12),"Iron, Energy, Zinc",Yes,All,Eat as snacks or with milk,Fruit,Vegetarian
+Sprouted moong salad (5),"Iron, Vitamin C",Yes,All,Add lemon and tomatoes,Salad,Vegetarian
+Ragi porridge (15),"Iron, Calcium",Yes,Second,Cook with milk or water and jaggery,Grain,Vegetarian
+Soy milk,"Calcium, Protein",Yes,All,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Idli with sambar (9),"Protein, Iron, Zinc",Yes,All,Steam and serve with lentil soup,Meal,Vegetarian
+Mushrooms (9),"Vitamin D, Iron",Yes,Third,Cook well before eating,Vegetable,Vegetarian
+Coconut chutney (6),Healthy Fats,Yes,Third,Pair with dosa or idli,Condiment,Vegetarian
+Besan chilla (4),"Protein, Iron",Yes,First,Pan-fry with veggies,Meal,Vegetarian
+Zucchini (12),"Vitamin C, Fiber",Yes,First,Steam or grill lightly,Vegetable,Vegetarian
+Besan chilla (9),"Protein, Iron, Zinc",Yes,All,Pan-fry with veggies,Meal,Vegetarian
+Sprouted moong salad (9),"Iron, Vitamin C, Zinc",Yes,Third,Add lemon and tomatoes,Salad,Vegetarian
+Boiled fish curry (light) (8),"Protein, Omega-3",Yes,Third,Use minimal oil and spices,Fish,Non-Vegetarian
+Bajra roti (14),"Iron, Fiber",Yes,First,Pair with ghee and dal,Grain,Vegetarian
+Palak paneer (9),"Calcium, Iron, Protein",Yes,Second,Cook with less spice,Meal,Vegetarian
+Bottle gourd (5),"Hydration, Fiber",Yes,Third,Boil or make into curry,Vegetable,Vegetarian
+Bottle gourd (9),"Hydration, Fiber",Yes,Third,Boil or make into curry,Vegetable,Vegetarian
+Turmeric milk (17),"Immunity, Antioxidants",Yes,Third,Use small quantity of turmeric,Drink,Vegetarian
+Aloo methi (9),"Iron, Fiber",Yes,Third,Cook with minimal oil,Vegetable,Vegetarian
+Bajra roti (6),"Iron, Fiber",Yes,All,Pair with ghee and dal,Grain,Vegetarian
+Dried apricots,Iron,Yes,All,Snack or mix with yogurt,Fruit,"Iron-Deficiency, Vegetarian"
+Bajra roti (1),"Iron, Fiber",Yes,All,Pair with ghee and dal,Grain,Vegetarian
+Bottle gourd,"Hydration, Fiber",Yes,All,Boil or make into curry,Vegetable,Vegetarian
+Dhokla (7),"Protein, Folate, Zinc",Yes,Third,Steam and serve with chutney,Snack,Vegetarian
+Bajra roti (7),"Iron, Fiber",Yes,Second,Pair with ghee and dal,Grain,Vegetarian
+Palak paneer (8),"Calcium, Iron, Protein, Zinc",Yes,First,Cook with less spice,Meal,Vegetarian
+Idli with sambar (2),"Protein, Iron, Zinc",Yes,First,Steam and serve with lentil soup,Meal,Vegetarian
+Ragi porridge (1),"Iron, Calcium",Yes,Second,Cook with milk or water and jaggery,Grain,Vegetarian
+Oranges,"Folate, Vitamin C",Yes,All,Eat fresh or juice,Fruit,Vegetarian
+Dates (5),"Iron, Energy, Zinc",Yes,Third,Eat as snacks or with milk,Fruit,Vegetarian
+Multigrain bread (1),"Fiber, B-Vitamins",Yes,Third,Use for sandwiches,Grain,Vegetarian
+Quinoa,"Protein, Iron",Yes,All,Cook like rice,Grain,"High-Protein, Vegetarian"
+Bajra roti (15),"Iron, Fiber, Zinc",Yes,All,Pair with ghee and dal,Grain,Vegetarian
+Toor dal (7),"Protein, Iron",Yes,Second,Cook as sambar or dal,Pulse,Vegetarian
+Coconut chutney (9),Healthy Fats,Yes,First,Pair with dosa or idli,Condiment,Vegetarian
+Palak paneer (1),"Calcium, Iron, Protein",Yes,Third,Cook with less spice,Meal,Vegetarian
+Mushrooms (4),"Vitamin D, Iron",Yes,Third,Cook well before eating,Vegetable,Vegetarian
+Milk,Calcium,Yes,All,Drink plain or with turmeric,Dairy,Vegetarian
+Sunflower seeds (14),"Vitamin E, Zinc",Yes,Second,Sprinkle on salads or yogurt,Seed,Vegetarian
+Dhokla (10),"Protein, Folate, Zinc",Yes,Second,Steam and serve with chutney,Snack,Vegetarian
+Lassi (12),"Calcium, Probiotics",Yes,All,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Boiled fish curry (light) (14),"Protein, Omega-3",Yes,Second,Use minimal oil and spices,Fish,Non-Vegetarian
+Sprouted moong salad (12),"Iron, Vitamin C",Yes,All,Add lemon and tomatoes,Salad,Vegetarian
+Zucchini (9),"Vitamin C, Fiber",Yes,Third,Steam or grill lightly,Vegetable,Vegetarian
+Sprouted moong salad (16),"Iron, Vitamin C",Yes,Third,Add lemon and tomatoes,Salad,Vegetarian
+Coconut chutney,Healthy Fats,Yes,All,Pair with dosa or idli,Condiment,Vegetarian
+Toor dal (14),"Protein, Iron",Yes,Second,Cook as sambar or dal,Pulse,Vegetarian
+Mushrooms (1),"Vitamin D, Iron, Zinc",Yes,First,Cook well before eating,Vegetable,Vegetarian
+Besan chilla (10),"Protein, Iron",Yes,Third,Pan-fry with veggies,Meal,Vegetarian
+Coconut chutney (16),Healthy Fats,Yes,All,Pair with dosa or idli,Condiment,Vegetarian
+Lassi (2),"Calcium, Probiotics",Yes,Second,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Palak paneer (16),"Calcium, Iron, Protein",Yes,Second,Cook with less spice,Meal,Vegetarian
+Palak paneer (15),"Calcium, Iron, Protein",Yes,All,Cook with less spice,Meal,Vegetarian
+Idli with sambar (6),"Protein, Iron",Yes,Third,Steam and serve with lentil soup,Meal,Vegetarian
+Boiled fish curry (light) (9),"Protein, Omega-3",Yes,Third,Use minimal oil and spices,Fish,Non-Vegetarian
+Coconut chutney (10),"Healthy Fats, Zinc",Yes,First,Pair with dosa or idli,Condiment,Vegetarian
+Coconut chutney (17),Healthy Fats,Yes,All,Pair with dosa or idli,Condiment,Vegetarian
+Lentils,Iron,Yes,All,Boil and serve with rice or salad,Protein,"Iron-Deficiency, Vegetarian"
+Multigrain bread (11),"Fiber, B-Vitamins",Yes,Second,Use for sandwiches,Grain,Vegetarian
+Dhokla (2),"Protein, Folate",Yes,All,Steam and serve with chutney,Snack,Vegetarian
+Toor dal (11),"Protein, Iron",Yes,Third,Cook as sambar or dal,Pulse,Vegetarian
+Besan chilla,"Protein, Iron",Yes,All,Pan-fry with veggies,Meal,Vegetarian
+Toor dal (1),"Protein, Iron",Yes,Third,Cook as sambar or dal,Pulse,Vegetarian
+Turmeric milk (1),"Immunity, Antioxidants",Yes,Third,Use small quantity of turmeric,Drink,Vegetarian
+Aloo methi (11),"Iron, Fiber, Zinc",Yes,All,Cook with minimal oil,Vegetable,Vegetarian
+Dhokla (4),"Protein, Folate",Yes,First,Steam and serve with chutney,Snack,Vegetarian
+Greek yogurt,"Calcium, Protein",Yes,All,Top with fruits or nuts,Dairy,Vegetarian
+Beetroot (6),"Folate, Iron",Yes,Third,Boil or juice,Vegetable,Vegetarian
+Oats,"Fiber, Iron",Yes,All,Cook with milk or water,Grain,Vegetarian
+Turmeric milk (14),"Immunity, Antioxidants",Yes,Third,Use small quantity of turmeric,Drink,Vegetarian
+Zucchini (13),"Vitamin C, Fiber",Yes,First,Steam or grill lightly,Vegetable,Vegetarian
+Dates (7),"Iron, Energy",Yes,First,Eat as snacks or with milk,Fruit,Vegetarian
+Soy milk (10),"Calcium, Protein",Yes,Second,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Chia seeds,"Omega-3, Fiber",Yes,All,Mix with yogurt or smoothies,Seed,Vegetarian
+Lassi (9),"Calcium, Probiotics, Zinc",Yes,Second,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Mushrooms (10),"Vitamin D, Iron, Zinc",Yes,All,Cook well before eating,Vegetable,Vegetarian
+Multigrain bread (13),"Fiber, B-Vitamins",Yes,First,Use for sandwiches,Grain,Vegetarian
+Dhokla (16),"Protein, Folate, Zinc",Yes,First,Steam and serve with chutney,Snack,Vegetarian
+Palak paneer,"Calcium, Iron, Protein",Yes,All,Cook with less spice,Meal,Vegetarian
+Suji halwa (7),"Iron, Energy",Yes,Third,Use less sugar and ghee,Dessert,Vegetarian
+Turmeric milk (4),"Immunity, Antioxidants, Zinc",Yes,Third,Use small quantity of turmeric,Drink,Vegetarian
+Coconut chutney (5),Healthy Fats,Yes,All,Pair with dosa or idli,Condiment,Vegetarian
+Suji halwa (6),"Iron, Energy",Yes,All,Use less sugar and ghee,Dessert,Vegetarian
+Aloo methi (14),"Iron, Fiber",Yes,First,Cook with minimal oil,Vegetable,Vegetarian
+Turmeric milk (16),"Immunity, Antioxidants, Zinc",Yes,Third,Use small quantity of turmeric,Drink,Vegetarian
+Beetroot,"Folate, Iron",Yes,All,Boil or juice,Vegetable,Vegetarian
+Besan chilla (14),"Protein, Iron",Yes,First,Pan-fry with veggies,Meal,Vegetarian
+Bottle gourd (3),"Hydration, Fiber",Yes,First,Boil or make into curry,Vegetable,Vegetarian
+Multigrain bread (8),"Fiber, B-Vitamins",Yes,Third,Use for sandwiches,Grain,Vegetarian
+Dates (17),"Iron, Energy",Yes,Second,Eat as snacks or with milk,Fruit,Vegetarian
+Bottle gourd (7),"Hydration, Fiber, Zinc",Yes,All,Boil or make into curry,Vegetable,Vegetarian
+Beetroot (17),"Folate, Iron",Yes,Second,Boil or juice,Vegetable,Vegetarian
+Suji halwa (17),"Iron, Energy",Yes,Third,Use less sugar and ghee,Dessert,Vegetarian
+Lassi (4),"Calcium, Probiotics",Yes,Third,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Idli with sambar (7),"Protein, Iron",Yes,First,Steam and serve with lentil soup,Meal,Vegetarian
+Suji halwa (11),"Iron, Energy",Yes,Second,Use less sugar and ghee,Dessert,Vegetarian
+Dhokla (5),"Protein, Folate, Zinc",Yes,Second,Steam and serve with chutney,Snack,Vegetarian
+Walnuts,Omega-3,Yes,All,Snack or add to oatmeal,Nut,Vegetarian
+Mushrooms (2),"Vitamin D, Iron",Yes,Second,Cook well before eating,Vegetable,Vegetarian
+Toor dal (10),"Protein, Iron",Yes,First,Cook as sambar or dal,Pulse,Vegetarian
+Soy milk (7),"Calcium, Protein, Zinc",Yes,All,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Coconut chutney (15),Healthy Fats,Yes,All,Pair with dosa or idli,Condiment,Vegetarian
+Lassi (3),"Calcium, Probiotics",Yes,First,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Toor dal (6),"Protein, Iron",Yes,Second,Cook as sambar or dal,Pulse,Vegetarian
+Boiled fish curry (light) (5),"Protein, Omega-3",Yes,First,Use minimal oil and spices,Fish,Non-Vegetarian
+Sprouted moong salad (4),"Iron, Vitamin C",Yes,All,Add lemon and tomatoes,Salad,Vegetarian
+Turmeric milk (10),"Immunity, Antioxidants",Yes,Third,Use small quantity of turmeric,Drink,Vegetarian
+Turmeric milk (7),"Immunity, Antioxidants",Yes,Third,Use small quantity of turmeric,Drink,Vegetarian
+Fortified cereals,Iron,Yes,All,Eat with milk or yogurt,Grain,"Iron-Deficiency, Vegetarian"
+Red meat,Iron,Yes,Second,Cook thoroughly before eating,Meat,Iron-Deficiency
+Idli with sambar (1),"Protein, Iron",Yes,Third,Steam and serve with lentil soup,Meal,Vegetarian
+Ragi porridge (6),"Iron, Calcium",Yes,Second,Cook with milk or water and jaggery,Grain,Vegetarian
+Boiled fish curry (light) (1),"Protein, Omega-3",Yes,Third,Use minimal oil and spices,Fish,Non-Vegetarian
+Ragi porridge (11),"Iron, Calcium, Zinc",Yes,All,Cook with milk or water and jaggery,Grain,Vegetarian
+Multigrain bread (6),"Fiber, B-Vitamins",Yes,All,Use for sandwiches,Grain,Vegetarian
+Palak paneer (14),"Calcium, Iron, Protein, Zinc",Yes,Second,Cook with less spice,Meal,Vegetarian
+Bananas,"Potassium, Energy",Yes,All,Eat fresh or blend into smoothies,Fruit,Vegetarian
+Lassi (10),"Calcium, Probiotics",Yes,All,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Dhokla (13),"Protein, Folate",Yes,Second,Steam and serve with chutney,Snack,Vegetarian
+Beetroot (2),"Folate, Iron, Zinc",Yes,Third,Boil or juice,Vegetable,Vegetarian
+Ragi porridge (7),"Iron, Calcium, Zinc",Yes,Second,Cook with milk or water and jaggery,Grain,Vegetarian
+Pumpkin seeds,Iron,Yes,All,Roast and sprinkle on dishes,Nut,"Iron-Deficiency, Vegetarian"
+Palak paneer (7),"Calcium, Iron, Protein",Yes,Second,Cook with less spice,Meal,Vegetarian
+Murungai keerai (Drumstick leaves) (10),"Iron, Calcium, Vitamin A, Zinc",Yes,Third,Use in dal or poriyal,Leafy Green,Vegetarian
+Toor dal (13),"Protein, Iron, Zinc",Yes,Third,Cook as sambar or dal,Pulse,Vegetarian
+Turmeric milk (11),"Immunity, Antioxidants",Yes,Second,Use small quantity of turmeric,Drink,Vegetarian
+Lassi (14),"Calcium, Probiotics, Zinc",Yes,First,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Beetroot (15),"Folate, Iron",Yes,Third,Boil or juice,Vegetable,Vegetarian
+Multigrain bread (14),"Fiber, B-Vitamins, Zinc",Yes,First,Use for sandwiches,Grain,Vegetarian
+Bottle gourd (8),"Hydration, Fiber",Yes,All,Boil or make into curry,Vegetable,Vegetarian
+Murungai keerai (Drumstick leaves) (13),"Iron, Calcium, Vitamin A",Yes,Second,Use in dal or poriyal,Leafy Green,Vegetarian
+Bajra roti (4),"Iron, Fiber",Yes,Second,Pair with ghee and dal,Grain,Vegetarian
+Beetroot (7),"Folate, Iron",Yes,All,Boil or juice,Vegetable,Vegetarian
+Dates (2),"Iron, Energy",Yes,Second,Eat as snacks or with milk,Fruit,Vegetarian
+Suji halwa (4),"Iron, Energy",Yes,Third,Use less sugar and ghee,Dessert,Vegetarian
+Multigrain bread (12),"Fiber, B-Vitamins, Zinc",Yes,Third,Use for sandwiches,Grain,Vegetarian
+Zucchini (11),"Vitamin C, Fiber",Yes,First,Steam or grill lightly,Vegetable,Vegetarian
+Idli with sambar (12),"Protein, Iron",Yes,Second,Steam and serve with lentil soup,Meal,Vegetarian
+Boiled fish curry (light) (12),"Protein, Omega-3",Yes,First,Use minimal oil and spices,Fish,Non-Vegetarian
+Turmeric milk,"Immunity, Antioxidants",Yes,All,Use small quantity of turmeric,Drink,Vegetarian
+Idli with sambar (11),"Protein, Iron, Zinc",Yes,All,Steam and serve with lentil soup,Meal,Vegetarian
+Soy milk (2),"Calcium, Protein",Yes,All,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Soy milk (1),"Calcium, Protein, Zinc",Yes,All,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Soy milk (16),"Calcium, Protein",Yes,First,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Soy milk (17),"Calcium, Protein",Yes,First,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Lassi (8),"Calcium, Probiotics, Zinc",Yes,Third,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Turmeric milk (5),"Immunity, Antioxidants",Yes,Second,Use small quantity of turmeric,Drink,Vegetarian
+Mushrooms,"Vitamin D, Iron",Yes,All,Cook well before eating,Vegetable,Vegetarian
+Dates (14),"Iron, Energy, Zinc",Yes,Third,Eat as snacks or with milk,Fruit,Vegetarian
+Zucchini (1),"Vitamin C, Fiber",Yes,Second,Steam or grill lightly,Vegetable,Vegetarian
+Multigrain bread (9),"Fiber, B-Vitamins",Yes,All,Use for sandwiches,Grain,Vegetarian
+Aloo methi (10),"Iron, Fiber",Yes,First,Cook with minimal oil,Vegetable,Vegetarian
+Mushrooms (3),"Vitamin D, Iron, Zinc",Yes,First,Cook well before eating,Vegetable,Vegetarian
+Beetroot (3),"Folate, Iron, Zinc",Yes,All,Boil or juice,Vegetable,Vegetarian
+Ragi porridge (2),"Iron, Calcium, Zinc",Yes,Second,Cook with milk or water and jaggery,Grain,Vegetarian
+Sprouted moong salad (13),"Iron, Vitamin C, Zinc",Yes,All,Add lemon and tomatoes,Salad,Vegetarian
+Cheese,Calcium,Yes,All,Add to sandwiches or salads,Dairy,Vegetarian
+Lassi (6),"Calcium, Probiotics, Zinc",Yes,Second,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Soy milk (15),"Calcium, Protein",Yes,First,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Besan chilla (6),"Protein, Iron, Zinc",Yes,All,Pan-fry with veggies,Meal,Vegetarian
+Boiled fish curry (light) (3),"Protein, Omega-3, Zinc",Yes,Second,Use minimal oil and spices,Fish,Non-Vegetarian
+Soy milk (13),"Calcium, Protein",Yes,Second,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Multigrain bread,"Fiber, B-Vitamins",Yes,All,Use for sandwiches,Grain,Vegetarian
+Lassi (1),"Calcium, Probiotics",Yes,First,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Zucchini (14),"Vitamin C, Fiber, Zinc",Yes,Second,Steam or grill lightly,Vegetable,Vegetarian
+Bottle gourd (6),"Hydration, Fiber, Zinc",Yes,All,Boil or make into curry,Vegetable,Vegetarian
+Avocado,"Folate, Healthy Fats",Yes,All,Slice on toast or salad,Fruit,Vegetarian
+Palak paneer (3),"Calcium, Iron, Protein",Yes,First,Cook with less spice,Meal,Vegetarian
+Palak paneer (2),"Calcium, Iron, Protein",Yes,Second,Cook with less spice,Meal,Vegetarian
+Coconut chutney (11),Healthy Fats,Yes,All,Pair with dosa or idli,Condiment,Vegetarian
+Idli with sambar (10),"Protein, Iron",Yes,All,Steam and serve with lentil soup,Meal,Vegetarian
+Toor dal (3),"Protein, Iron",Yes,All,Cook as sambar or dal,Pulse,Vegetarian
+Besan chilla (5),"Protein, Iron, Zinc",Yes,All,Pan-fry with veggies,Meal,Vegetarian
+Besan chilla (17),"Protein, Iron, Zinc",Yes,All,Pan-fry with veggies,Meal,Vegetarian
+Lassi (13),"Calcium, Probiotics",Yes,All,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Toor dal (9),"Protein, Iron",Yes,Third,Cook as sambar or dal,Pulse,Vegetarian
+Sunflower seeds (8),"Vitamin E, Zinc",Yes,Third,Sprinkle on salads or yogurt,Seed,Vegetarian
+Aloo methi (12),"Iron, Fiber, Zinc",Yes,First,Cook with minimal oil,Vegetable,Vegetarian
+Sunflower seeds,"Vitamin E, Zinc",Yes,All,Sprinkle on salads or yogurt,Seed,Vegetarian
+Boiled fish curry (light) (6),"Protein, Omega-3",Yes,Second,Use minimal oil and spices,Fish,Non-Vegetarian
+Suji halwa,"Iron, Energy",Yes,All,Use less sugar and ghee,Dessert,Vegetarian
+Dhokla (6),"Protein, Folate",Yes,Second,Steam and serve with chutney,Snack,Vegetarian
+Aloo methi (1),"Iron, Fiber",Yes,Second,Cook with minimal oil,Vegetable,Vegetarian
+Soy milk (5),"Calcium, Protein",Yes,First,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Turmeric milk (9),"Immunity, Antioxidants, Zinc",Yes,Second,Use small quantity of turmeric,Drink,Vegetarian
+Idli with sambar (14),"Protein, Iron",Yes,Second,Steam and serve with lentil soup,Meal,Vegetarian
+Multigrain bread (5),"Fiber, B-Vitamins",Yes,Second,Use for sandwiches,Grain,Vegetarian
+Coconut chutney (3),Healthy Fats,Yes,All,Pair with dosa or idli,Condiment,Vegetarian
+Coconut chutney (4),Healthy Fats,Yes,All,Pair with dosa or idli,Condiment,Vegetarian
+Palak paneer (13),"Calcium, Iron, Protein",Yes,First,Cook with less spice,Meal,Vegetarian
+Dhokla (12),"Protein, Folate",Yes,First,Steam and serve with chutney,Snack,Vegetarian
+Beetroot (8),"Folate, Iron, Zinc",Yes,Third,Boil or juice,Vegetable,Vegetarian
+Besan chilla (2),"Protein, Iron, Zinc",Yes,All,Pan-fry with veggies,Meal,Vegetarian
+Sunflower seeds (3),"Vitamin E, Zinc",Yes,All,Sprinkle on salads or yogurt,Seed,Vegetarian
+Sprouted moong salad (1),"Iron, Vitamin C, Zinc",Yes,First,Add lemon and tomatoes,Salad,Vegetarian
+Idli with sambar (5),"Protein, Iron",Yes,Second,Steam and serve with lentil soup,Meal,Vegetarian
+Aloo methi (6),"Iron, Fiber, Zinc",Yes,Third,Cook with minimal oil,Vegetable,Vegetarian
+Mushrooms (6),"Vitamin D, Iron",Yes,All,Cook well before eating,Vegetable,Vegetarian
+Zucchini (4),"Vitamin C, Fiber",Yes,Third,Steam or grill lightly,Vegetable,Vegetarian
+Bajra roti,"Iron, Fiber",Yes,"Second, Third",Pair with ghee and dal,Grain,Vegetarian
+Dhokla (8),"Protein, Folate",Yes,Third,Steam and serve with chutney,Snack,Vegetarian
+Idli with sambar (16),"Protein, Iron",Yes,Second,Steam and serve with lentil soup,Meal,Vegetarian
+Bajra roti (11),"Iron, Fiber, Zinc",Yes,All,Pair with ghee and dal,Grain,Vegetarian
+Mushrooms (13),"Vitamin D, Iron, Zinc",Yes,All,Cook well before eating,Vegetable,Vegetarian
+Lassi (17),"Calcium, Probiotics",Yes,First,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Beetroot (5),"Folate, Iron",Yes,All,Boil or juice,Vegetable,Vegetarian
+Sprouted moong salad (10),"Iron, Vitamin C",Yes,All,Add lemon and tomatoes,Salad,Vegetarian
+Sunflower seeds (5),"Vitamin E, Zinc",Yes,Third,Sprinkle on salads or yogurt,Seed,Vegetarian
+Sunflower seeds (10),"Vitamin E, Zinc",Yes,Third,Sprinkle on salads or yogurt,Seed,Vegetarian
+Bajra roti (16),"Iron, Fiber",Yes,Third,Pair with ghee and dal,Grain,Vegetarian
+Besan chilla (8),"Protein, Iron, Zinc",Yes,Third,Pan-fry with veggies,Meal,Vegetarian
+Aloo methi (4),"Iron, Fiber",Yes,First,Cook with minimal oil,Vegetable,Vegetarian
+Besan chilla (12),"Protein, Iron, Zinc",Yes,Second,Pan-fry with veggies,Meal,Vegetarian
+Sunflower seeds (9),"Vitamin E, Zinc",Yes,Third,Sprinkle on salads or yogurt,Seed,Vegetarian
+Murungai keerai (Drumstick leaves) (6),"Iron, Calcium, Vitamin A, Zinc",Yes,Second,Use in dal or poriyal,Leafy Green,Vegetarian
+Ragi porridge (14),"Iron, Calcium, Zinc",Yes,First,Cook with milk or water and jaggery,Grain,Vegetarian
+Zucchini (16),"Vitamin C, Fiber",Yes,Third,Steam or grill lightly,Vegetable,Vegetarian
+Idli with sambar (13),"Protein, Iron, Zinc",Yes,Second,Steam and serve with lentil soup,Meal,Vegetarian
+Boiled fish curry (light) (17),"Protein, Omega-3",Yes,Second,Use minimal oil and spices,Fish,Non-Vegetarian
+Palak paneer (5),"Calcium, Iron, Protein, Zinc",Yes,Third,Cook with less spice,Meal,Vegetarian
+Dates (8),"Iron, Energy",Yes,First,Eat as snacks or with milk,Fruit,Vegetarian
+Sprouted moong salad (14),"Iron, Vitamin C",Yes,Second,Add lemon and tomatoes,Salad,Vegetarian
+Soy milk (3),"Calcium, Protein",Yes,Second,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Lassi (16),"Calcium, Probiotics",Yes,All,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Dhokla (15),"Protein, Folate",Yes,All,Steam and serve with chutney,Snack,Vegetarian
+Toor dal (8),"Protein, Iron",Yes,Second,Cook as sambar or dal,Pulse,Vegetarian
+Bottle gourd (2),"Hydration, Fiber",Yes,First,Boil or make into curry,Vegetable,Vegetarian
+Toor dal (5),"Protein, Iron",Yes,Third,Cook as sambar or dal,Pulse,Vegetarian
+Toor dal (2),"Protein, Iron",Yes,First,Cook as sambar or dal,Pulse,Vegetarian
+Suji halwa (14),"Iron, Energy",Yes,Third,Use less sugar and ghee,Dessert,Vegetarian
+Boiled fish curry (light) (4),"Protein, Omega-3",Yes,Second,Use minimal oil and spices,Fish,Non-Vegetarian
+Bottle gourd (17),"Hydration, Fiber, Zinc",Yes,Second,Boil or make into curry,Vegetable,Vegetarian
+Eggs,"Protein, Choline",Yes,All,Boil or scramble,Protein,High-Protein
+Turmeric milk (6),"Immunity, Antioxidants, Zinc",Yes,First,Use small quantity of turmeric,Drink,Vegetarian
+Sunflower seeds (12),"Vitamin E, Zinc",Yes,Second,Sprinkle on salads or yogurt,Seed,Vegetarian
+Suji halwa (2),"Iron, Energy",Yes,All,Use less sugar and ghee,Dessert,Vegetarian
+Aloo methi (2),"Iron, Fiber, Zinc",Yes,All,Cook with minimal oil,Vegetable,Vegetarian
+Coconut chutney (13),Healthy Fats,Yes,Second,Pair with dosa or idli,Condiment,Vegetarian
+Idli with sambar (4),"Protein, Iron",Yes,First,Steam and serve with lentil soup,Meal,Vegetarian
+Beetroot (1),"Folate, Iron",Yes,All,Boil or juice,Vegetable,Vegetarian
+Salmon,"Omega-3, Protein",Yes,"Second, Third","Grill or bake, avoid raw",Fish,High-Protein
+Lassi (11),"Calcium, Probiotics",Yes,First,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Idli with sambar (3),"Protein, Iron, Zinc",Yes,Second,Steam and serve with lentil soup,Meal,Vegetarian
+Zucchini (17),"Vitamin C, Fiber",Yes,Third,Steam or grill lightly,Vegetable,Vegetarian
+Aloo methi (15),"Iron, Fiber",Yes,First,Cook with minimal oil,Vegetable,Vegetarian
+Toor dal (15),"Protein, Iron",Yes,Second,Cook as sambar or dal,Pulse,Vegetarian
+Toor dal (16),"Protein, Iron",Yes,All,Cook as sambar or dal,Pulse,Vegetarian
+Besan chilla (3),"Protein, Iron, Zinc",Yes,All,Pan-fry with veggies,Meal,Vegetarian
+Dates (3),"Iron, Energy",Yes,All,Eat as snacks or with milk,Fruit,Vegetarian
+Sunflower seeds (17),"Vitamin E, Zinc",Yes,Second,Sprinkle on salads or yogurt,Seed,Vegetarian
+Multigrain bread (2),"Fiber, B-Vitamins, Zinc",Yes,Second,Use for sandwiches,Grain,Vegetarian
+Toor dal (12),"Protein, Iron",Yes,All,Cook as sambar or dal,Pulse,Vegetarian
+Besan chilla (15),"Protein, Iron, Zinc",Yes,Third,Pan-fry with veggies,Meal,Vegetarian
+Sunflower seeds (16),"Vitamin E, Zinc",Yes,Second,Sprinkle on salads or yogurt,Seed,Vegetarian
+Aloo methi (8),"Iron, Fiber",Yes,Third,Cook with minimal oil,Vegetable,Vegetarian
+Turmeric milk (8),"Immunity, Antioxidants, Zinc",Yes,All,Use small quantity of turmeric,Drink,Vegetarian
+Palak paneer (6),"Calcium, Iron, Protein",Yes,Third,Cook with less spice,Meal,Vegetarian
+Kale,Calcium,Yes,All,Steam or sauté,Vegetable,Vegetarian
+Bottle gourd (14),"Hydration, Fiber, Zinc",Yes,First,Boil or make into curry,Vegetable,Vegetarian
+Besan chilla (16),"Protein, Iron, Zinc",Yes,All,Pan-fry with veggies,Meal,Vegetarian
+Murungai keerai (Drumstick leaves) (7),"Iron, Calcium, Vitamin A",Yes,All,Use in dal or poriyal,Leafy Green,Vegetarian
+Mushrooms (8),"Vitamin D, Iron",Yes,Third,Cook well before eating,Vegetable,Vegetarian
+Zucchini (7),"Vitamin C, Fiber, Zinc",Yes,Second,Steam or grill lightly,Vegetable,Vegetarian
+Coconut chutney (12),Healthy Fats,Yes,Second,Pair with dosa or idli,Condiment,Vegetarian
+Sprouted moong salad,"Iron, Vitamin C",Yes,All,Add lemon and tomatoes,Salad,Vegetarian
+Mushrooms (14),"Vitamin D, Iron",Yes,First,Cook well before eating,Vegetable,Vegetarian
+Multigrain bread (4),"Fiber, B-Vitamins",Yes,Third,Use for sandwiches,Grain,Vegetarian
+Multigrain bread (3),"Fiber, B-Vitamins, Zinc",Yes,All,Use for sandwiches,Grain,Vegetarian
+Dhokla (17),"Protein, Folate",Yes,Third,Steam and serve with chutney,Snack,Vegetarian
+Suji halwa (16),"Iron, Energy",Yes,Third,Use less sugar and ghee,Dessert,Vegetarian
+Almonds,"Protein, Healthy Fats",Yes,All,Snack or add to milkshakes,Nut,"High-Protein, Vegetarian"
+Dhokla (1),"Protein, Folate, Zinc",Yes,All,Steam and serve with chutney,Snack,Vegetarian
+Soy milk (9),"Calcium, Protein, Zinc",Yes,Third,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Sprouted moong salad (11),"Iron, Vitamin C",Yes,First,Add lemon and tomatoes,Salad,Vegetarian
+Suji halwa (5),"Iron, Energy",Yes,Second,Use less sugar and ghee,Dessert,Vegetarian
+Bajra roti (13),"Iron, Fiber",Yes,First,Pair with ghee and dal,Grain,Vegetarian
+Aloo methi (7),"Iron, Fiber, Zinc",Yes,Third,Cook with minimal oil,Vegetable,Vegetarian
+Zucchini (5),"Vitamin C, Fiber, Zinc",Yes,First,Steam or grill lightly,Vegetable,Vegetarian
+Zucchini (8),"Vitamin C, Fiber",Yes,All,Steam or grill lightly,Vegetable,Vegetarian
+Bajra roti (10),"Iron, Fiber",Yes,Third,Pair with ghee and dal,Grain,Vegetarian
+Murungai keerai (Drumstick leaves),"Iron, Calcium, Vitamin A",Yes,All,Use in dal or poriyal,Leafy Green,Vegetarian
+Soy milk (4),"Calcium, Protein",Yes,First,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Dhokla (11),"Protein, Folate",Yes,First,Steam and serve with chutney,Snack,Vegetarian
+Murungai keerai (Drumstick leaves) (11),"Iron, Calcium, Vitamin A",Yes,First,Use in dal or poriyal,Leafy Green,Vegetarian
+Suji halwa (3),"Iron, Energy, Zinc",Yes,All,Use less sugar and ghee,Dessert,Vegetarian
+Sprouted moong salad (7),"Iron, Vitamin C, Zinc",Yes,Second,Add lemon and tomatoes,Salad,Vegetarian
+Besan chilla (1),"Protein, Iron, Zinc",Yes,First,Pan-fry with veggies,Meal,Vegetarian
+Dates (1),"Iron, Energy",Yes,All,Eat as snacks or with milk,Fruit,Vegetarian
+Bajra roti (3),"Iron, Fiber, Zinc",Yes,Second,Pair with ghee and dal,Grain,Vegetarian
+Sprouted moong salad (2),"Iron, Vitamin C",Yes,Third,Add lemon and tomatoes,Salad,Vegetarian
+Aloo methi (5),"Iron, Fiber, Zinc",Yes,Second,Cook with minimal oil,Vegetable,Vegetarian
+Sunflower seeds (7),"Vitamin E, Zinc",Yes,First,Sprinkle on salads or yogurt,Seed,Vegetarian
+Suji halwa (12),"Iron, Energy",Yes,All,Use less sugar and ghee,Dessert,Vegetarian
+Murungai keerai (Drumstick leaves) (2),"Iron, Calcium, Vitamin A",Yes,First,Use in dal or poriyal,Leafy Green,Vegetarian
+Turmeric milk (2),"Immunity, Antioxidants, Zinc",Yes,Second,Use small quantity of turmeric,Drink,Vegetarian
+Ragi porridge (12),"Iron, Calcium, Zinc",Yes,Third,Cook with milk or water and jaggery,Grain,Vegetarian
+Boiled fish curry (light) (13),"Protein, Omega-3",Yes,All,Use minimal oil and spices,Fish,Non-Vegetarian
+Sprouted moong salad (15),"Iron, Vitamin C",Yes,Second,Add lemon and tomatoes,Salad,Vegetarian
+Lassi (7),"Calcium, Probiotics",Yes,Second,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Dhokla (14),"Protein, Folate",Yes,First,Steam and serve with chutney,Snack,Vegetarian
+Dhokla (9),"Protein, Folate",Yes,Third,Steam and serve with chutney,Snack,Vegetarian
+Bottle gourd (11),"Hydration, Fiber",Yes,Second,Boil or make into curry,Vegetable,Vegetarian
+Aloo methi (17),"Iron, Fiber",Yes,Third,Cook with minimal oil,Vegetable,Vegetarian
+Lassi (5),"Calcium, Probiotics",Yes,Second,"Serve chilled, avoid added sugar",Dairy,Vegetarian
+Bottle gourd (4),"Hydration, Fiber, Zinc",Yes,All,Boil or make into curry,Vegetable,Vegetarian
+Idli with sambar (17),"Protein, Iron",Yes,All,Steam and serve with lentil soup,Meal,Vegetarian
+Palak paneer (17),"Calcium, Iron, Protein",Yes,Second,Cook with less spice,Meal,Vegetarian
+Chicken breast,Protein,Yes,All,Grill or cook thoroughly,Meat,High-Protein
+Dates (11),"Iron, Energy, Zinc",Yes,Third,Eat as snacks or with milk,Fruit,Vegetarian
+Sunflower seeds (1),"Vitamin E, Zinc",Yes,Third,Sprinkle on salads or yogurt,Seed,Vegetarian
+Sunflower seeds (4),"Vitamin E, Zinc",Yes,Second,Sprinkle on salads or yogurt,Seed,Vegetarian
+Murungai keerai (Drumstick leaves) (12),"Iron, Calcium, Vitamin A",Yes,Second,Use in dal or poriyal,Leafy Green,Vegetarian
+Zucchini (3),"Vitamin C, Fiber",Yes,Second,Steam or grill lightly,Vegetable,Vegetarian
+Idli with sambar (8),"Protein, Iron",Yes,All,Steam and serve with lentil soup,Meal,Vegetarian
+Boiled fish curry (light) (16),"Protein, Omega-3",Yes,First,Use minimal oil and spices,Fish,Non-Vegetarian
+Coconut chutney (1),Healthy Fats,Yes,All,Pair with dosa or idli,Condiment,Vegetarian
+Murungai keerai (Drumstick leaves) (16),"Iron, Calcium, Vitamin A",Yes,All,Use in dal or poriyal,Leafy Green,Vegetarian
+Suji halwa (13),"Iron, Energy",Yes,Third,Use less sugar and ghee,Dessert,Vegetarian
+Beetroot (12),"Folate, Iron",Yes,Second,Boil or juice,Vegetable,Vegetarian
+Aloo methi (3),"Iron, Fiber",Yes,All,Cook with minimal oil,Vegetable,Vegetarian
+Ragi porridge (9),"Iron, Calcium",Yes,Second,Cook with milk or water and jaggery,Grain,Vegetarian
+Dhokla (3),"Protein, Folate",Yes,Third,Steam and serve with chutney,Snack,Vegetarian
+Murungai keerai (Drumstick leaves) (8),"Iron, Calcium, Vitamin A, Zinc",Yes,Third,Use in dal or poriyal,Leafy Green,Vegetarian
+Sprouted moong salad (8),"Iron, Vitamin C, Zinc",Yes,Second,Add lemon and tomatoes,Salad,Vegetarian
+Sprouted moong salad (3),"Iron, Vitamin C",Yes,First,Add lemon and tomatoes,Salad,Vegetarian
+Soy milk (8),"Calcium, Protein",Yes,First,Drink plain or in cereal,Dairy Alternative,Vegetarian
+Sweet potatoes,"Fiber, Beta-Carotene",Yes,All,Boil or bake,Vegetable,Vegetarian
+Suji halwa (10),"Iron, Energy",Yes,First,Use less sugar and ghee,Dessert,Vegetarian
+Toor dal (4),"Protein, Iron",Yes,Third,Cook as sambar or dal,Pulse,Vegetarian
+Zucchini (10),"Vitamin C, Fiber",Yes,All,Steam or grill lightly,Vegetable,Vegetarian
+Sunflower seeds (15),"Vitamin E, Zinc",Yes,Third,Sprinkle on salads or yogurt,Seed,Vegetarian
+Ragi porridge,"Iron, Calcium",Yes,"First, Second",Cook with milk or water and jaggery,Grain,Vegetarian
+Sunflower seeds (13),"Vitamin E, Zinc",Yes,First,Sprinkle on salads or yogurt,Seed,Vegetarian
+Ragi porridge (8),"Iron, Calcium, Zinc",Yes,All,Cook with milk or water and jaggery,Grain,Vegetarian
+Murungai keerai (Drumstick leaves) (15),"Iron, Calcium, Vitamin A",Yes,All,Use in dal or poriyal,Leafy Green,Vegetarian
+Beetroot (10),"Folate, Iron",Yes,Third,Boil or juice,Vegetable,Vegetarian
+Sprouted moong salad (17),"Iron, Vitamin C",Yes,Second,Add lemon and tomatoes,Salad,Vegetarian
+Aloo methi,"Iron, Fiber",Yes,All,Cook with minimal oil,Vegetable,Vegetarian
+Boiled fish curry (light) (15),"Protein, Omega-3",Yes,Third,Use minimal oil and spices,Fish,Non-Vegetarian
+Boiled fish curry (light) (7),"Protein, Omega-3",Yes,All,Use minimal oil and spices,Fish,Non-Vegetarian
+Beetroot (9),"Folate, Iron",Yes,Second,Boil or juice,Vegetable,Vegetarian
+Palak paneer (12),"Calcium, Iron, Protein",Yes,Second,Cook with less spice,Meal,Vegetarian
+Turmeric milk (15),"Immunity, Antioxidants",Yes,Third,Use small quantity of turmeric,Drink,Vegetarian
+Bajra roti (8),"Iron, Fiber",Yes,All,Pair with ghee and dal,Grain,Vegetarian
+Coconut chutney (7),Healthy Fats,Yes,Third,Pair with dosa or idli,Condiment,Vegetarian
+Bajra roti (9),"Iron, Fiber, Zinc",Yes,Second,Pair with ghee and dal,Grain,Vegetarian
+Sunflower seeds (2),"Vitamin E, Zinc",Yes,All,Sprinkle on salads or yogurt,Seed,Vegetarian
+Bajra roti (12),"Iron, Fiber",Yes,Third,Pair with ghee and dal,Grain,Vegetarian
+Murungai keerai (Drumstick leaves) (3),"Iron, Calcium, Vitamin A, Zinc",Yes,Second,Use in dal or poriyal,Leafy Green,Vegetarian
+Toor dal (17),"Protein, Iron",Yes,Second,Cook as sambar or dal,Pulse,Vegetarian
+Bottle gourd (10),"Hydration, Fiber, Zinc",Yes,Third,Boil or make into curry,Vegetable,Vegetarian
+Bottle gourd (16),"Hydration, Fiber, Zinc",Yes,Third,Boil or make into curry,Vegetable,Vegetarian
+Suji halwa (1),"Iron, Energy, Zinc",Yes,First,Use less sugar and ghee,Dessert,Vegetarian
+Ragi porridge (10),"Iron, Calcium",Yes,Third,Cook with milk or water and jaggery,Grain,Vegetarian
