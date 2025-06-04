@@ -1,0 +1,11 @@
+###FILE STRUCTURE
+
+
+pregnocare-ai/
+├── app.py                        # Main Streamlit interface
+├── prenatal_care_guide.txt      # Pregnancy knowledge base
+├── pregnocare_food_dataset.csv  # Nutrient-rich food recommendations
+├── requirements.txt             # Python dependencies
+├── .env                         # API keys (excluded from Git)
+├── README.md                    # Project documentation
+└── screenshots/                 # Optional folder for UI images
