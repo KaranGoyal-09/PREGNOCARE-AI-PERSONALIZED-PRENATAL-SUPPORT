@@ -1,3 +1,7 @@
 streamlit
 openai
 python-dotenv
+pandas
+bcrypt
+pymongo
+speechrecognition
